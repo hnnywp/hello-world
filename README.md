@@ -1,2 +1,3 @@
 # hello-world
-my first project
+//my first project
+i want to become better
